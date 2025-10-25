@@ -1,0 +1,37 @@
+{
+  "background_color": "#ffffff",
+  "description": "fashion, clothing, men&amp;#039;s fashion women’s fashion",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "lyonblack",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "lyonblack",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "https://files.websitebuilder.prositehosting.co.uk/93/5b/935bfc6e-8c54-43ea-9bc7-788e075984c2.ico",
+      "type": "image/x-icon",
+      "isSquare": false,
+      "isPng": false,
+      "isWebp": false,
+      "isJpg": false,
+      "width": 0,
+      "is512x512": false,
+      "is256x256": false,
+      "is192x192": false
+    }
+  ],
+  "categories": [
+    "lifestyle",
+    "shopping"
+  ],
+  "lang": "en",
+  "display_override": [
+    "browser",
+    "window-controls-overlay",
+    "fullscreen",
+    "standalone"
+  ]
+}
